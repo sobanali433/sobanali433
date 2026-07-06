@@ -11,34 +11,10 @@ Currently learning
 • Azure
 • Docker
 
-C#
+Tech Stack
 
-ASP.NET Core
-
-.NET
-
-Entity Framework
-
-SQL Server
-
-LINQ
-
-JWT
-
-REST API
-
-JavaScript
-
-HTML
-
-CSS
-
-Bootstrap
-
-Git
-
-GitHub
-
-Azure
-
-Docker
+[C#] [.NET] [ASP.NET Core] [Entity Framework Core]
+[SQL Server] [LINQ] [JWT]
+[HTML5] [CSS3] [JavaScript]
+[Bootstrap] [Git] [GitHub]
+[Azure] [Docker]
