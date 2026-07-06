@@ -3,7 +3,7 @@
 
 
 
-                    # 💻 Full-Stack Technologies 
+                     💻 Full-Stack Technologies 
 
 Frontend Developement
 
