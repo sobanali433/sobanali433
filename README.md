@@ -21,6 +21,8 @@ AI & Tools
 
 
 What I Do?
+
+
 I develop business applications for startups and growing organizations, focusing on clean architecture, secure APIs,
 maintainable code, and business process automation. I build systems that streamline operations such as attendance, payroll, HR, inventory, and reporting, helping teams work more efficiently with less manual effort.
 
