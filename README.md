@@ -40,7 +40,7 @@ maintainable code, and business process automation. I build systems that streaml
 
 LinkedIn: https://www.linkedin.com/in/soban-ali-618a55266/
 
-[![linkedin]([https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/soban-ali-618a55266/))](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white))]([https://www.linkedin.com/](https://www.linkedin.com/in/soban-ali-618a55266/))
 
 [![](https://komarev.com/ghpvc/?username=sobanali433&icon=0&color=0)](https://visitcount.itsvg.in)
 
