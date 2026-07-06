@@ -18,3 +18,4 @@ Tech Stack
 [HTML5] [CSS3] [JavaScript]
 [Bootstrap] [Git] [GitHub]
 [Azure] [Docker]
+C#
