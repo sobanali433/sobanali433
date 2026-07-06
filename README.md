@@ -46,7 +46,6 @@ LinkedIn: https://www.linkedin.com/in/soban-ali-618a55266/
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
