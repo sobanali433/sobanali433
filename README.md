@@ -1,6 +1,5 @@
-## Hi I'm SobanAli 👋
-
-Software Engineer | .NET Developer
+## Hello I'm SobanAli 👋
+Software Engineer 
 
 I build scalable web applications using ASP.NET Core, C#, SQL Server and modern frontend technologies.
 
