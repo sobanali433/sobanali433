@@ -36,7 +36,7 @@ maintainable code, and business process automation. I build systems that streaml
 
 ---
 # Connect
-![Linkdin](https://www.linkedin.com/in/soban-ali-618a55266/)
+![Linkdin](https://www.linkedin.com/in/soban-ali-618a55266)
 
 
 
