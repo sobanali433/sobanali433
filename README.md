@@ -23,7 +23,7 @@ AI & Tools
 []()
 
 
-#What I Do?
+# What I Do?
 
 
 I develop business applications for startups and growing organizations, focusing on clean architecture, secure APIs,
