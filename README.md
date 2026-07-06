@@ -18,7 +18,12 @@ AI & Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 What I Do?
+
+I develop business applications for startups and growing organizations, focusing on clean architecture, secure APIs,
+maintainable code, and business process automation. I build systems that streamline operations such as attendance, payroll, HR, inventory, and reporting, helping teams work more efficiently with less manual effort.
+
+
 ![](https://github-readme-stats.shion.dsev/api?username=sobanali433&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolasb.com/?user=sobanali43s3&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/s?username=sobanali433&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
