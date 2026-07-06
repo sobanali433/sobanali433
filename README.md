@@ -10,3 +10,35 @@ Currently learning
 • Microservices
 • Azure
 • Docker
+
+C#
+
+ASP.NET Core
+
+.NET
+
+Entity Framework
+
+SQL Server
+
+LINQ
+
+JWT
+
+REST API
+
+JavaScript
+
+HTML
+
+CSS
+
+Bootstrap
+
+Git
+
+GitHub
+
+Azure
+
+Docker
